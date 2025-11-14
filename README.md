@@ -3,6 +3,7 @@
 A comprehensive COVID-19 data analytics dashboard built using Power BI to analyze global confirmed cases, deaths, recoveries, mortality ratios, and regional trends.
 This project showcases data cleaning, modeling, visualization, and insights generation using advanced Power BI features.
 
+
 🚀 Project Overview
 
 This Power BI project provides an interactive and visually compelling analysis of worldwide COVID-19 impact using dashboards that highlight:
@@ -24,6 +25,7 @@ Mortality ratio insights
 Geographic distribution of deaths
 
 The dashboard is built to help understand the spread, severity, and recovery performance across countries and regions.
+
 
 📂 Dashboard Pages
 
@@ -49,6 +51,7 @@ Death Rate %
 <img width="1452" height="788" alt="Screenshot 2025-11-14 125131" src="https://github.com/user-attachments/assets/382aa9d7-15a6-4d9d-a15c-076c04914cb7" />
 
 
+
 2️⃣ COVID-19 Death vs Recovered vs Active
 
 ✔ Recovery vs Death vs Active proportions
@@ -70,6 +73,7 @@ Mortality Ratio
 <img width="1390" height="784" alt="Screenshot 2025-11-14 125203" src="https://github.com/user-attachments/assets/f7ffdbba-5516-4ddf-8608-b095e93bfe3a" />
 
 
+
 🧹 Data Cleaning & Transformation
 
 Performed in Power Query:
@@ -85,6 +89,8 @@ Standardized country/region names
 Created calculated columns for mortality & recovery ratios
 
 Merged WHO region data
+
+
 
 🧮 Important DAX Measures Used
 Total Confirmed = SUM(Data[Confirmed])
@@ -148,6 +154,8 @@ Donut/Bar/Scatter Charts
 
 Data Modeling
 
+
+
 🎯 Purpose of the Project
 
 This project demonstrates:
@@ -165,6 +173,8 @@ Real-world dataset analysis
 End-to-end data analysis workflow
 
 This repository is ideal for recruiters to evaluate Power BI proficiency, DAX skills, data modeling, and dashboard design ability.
+
+
 
 📞 Contact
 
