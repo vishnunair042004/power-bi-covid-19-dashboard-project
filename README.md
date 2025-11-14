@@ -48,7 +48,8 @@ Death Rate %
 
 📸 Dashboard Preview:
 
-<img width="1345" height="732" alt="Screenshot 2025-11-14 133725" src="https://github.com/user-attachments/assets/38487360-3636-4804-9300-b367fc929d39" />
+<img width="1343" height="733" alt="Screenshot 2025-11-14 134855" src="https://github.com/user-attachments/assets/ccbf70f8-a8ce-422b-b677-fda6afb26068" />
+
 
 
 
