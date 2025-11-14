@@ -46,7 +46,8 @@ Death Rate %
 📸 Dashboard Preview:
 
 
-Replace with your uploaded image URL after pushing images to GitHub.
+<img width="1452" height="788" alt="Screenshot 2025-11-14 125131" src="https://github.com/user-attachments/assets/382aa9d7-15a6-4d9d-a15c-076c04914cb7" />
+
 
 2️⃣ COVID-19 Death vs Recovered vs Active
 
@@ -65,6 +66,8 @@ Recovery Ratio
 Mortality Ratio
 
 📸 Dashboard Preview:
+
+<img width="1390" height="784" alt="Screenshot 2025-11-14 125203" src="https://github.com/user-attachments/assets/f7ffdbba-5516-4ddf-8608-b095e93bfe3a" />
 
 
 🧹 Data Cleaning & Transformation
