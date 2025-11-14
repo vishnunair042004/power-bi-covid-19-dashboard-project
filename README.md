@@ -48,8 +48,8 @@ Death Rate %
 
 📸 Dashboard Preview:
 
+<img width="1345" height="732" alt="Screenshot 2025-11-14 133725" src="https://github.com/user-attachments/assets/38487360-3636-4804-9300-b367fc929d39" />
 
-<img width="1452" height="788" alt="Screenshot 2025-11-14 125131" src="https://github.com/user-attachments/assets/382aa9d7-15a6-4d9d-a15c-076c04914cb7" />
 
 
 
@@ -71,7 +71,8 @@ Mortality Ratio
 
 📸 Dashboard Preview:
 
-<img width="1390" height="784" alt="Screenshot 2025-11-14 125203" src="https://github.com/user-attachments/assets/f7ffdbba-5516-4ddf-8608-b095e93bfe3a" />
+
+<img width="1419" height="804" alt="Screenshot 2025-11-14 133915" src="https://github.com/user-attachments/assets/a84b1309-9a91-4bd4-a886-c556939abb87" />
 
 
 
