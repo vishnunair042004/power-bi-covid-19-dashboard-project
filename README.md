@@ -1,1 +1,1 @@
-# power-bi-covid-19-dashboard-project
+# Power-BI-COVID-19-dashboard-project
