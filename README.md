@@ -168,9 +168,8 @@ This repository is ideal for recruiters to evaluate Power BI proficiency, DAX sk
 
 📞 Contact
 
-If you want to connect or have questions:
+Vishnu Nair
 
-Your Name
 📧 vishnunairofficial2004@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/vishnu-nair-b6a764341/
