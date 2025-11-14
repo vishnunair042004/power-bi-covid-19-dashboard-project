@@ -173,7 +173,6 @@ Real-world dataset analysis
 
 End-to-end data analysis workflow
 
-This repository is ideal for recruiters to evaluate Power BI proficiency, DAX skills, data modeling, and dashboard design ability.
 
 
 
