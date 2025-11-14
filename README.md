@@ -88,17 +88,23 @@ Merged WHO region data
 
 🧮 Important DAX Measures Used
 Total Confirmed = SUM(Data[Confirmed])
+
 Total Deaths = SUM(Data[Deaths])
+
 Total Recovered = SUM(Data[Recovered])
+
 Total Active = [Total Confirmed] - ([Total Deaths] + [Total Recovered])
 
 Death Rate % = ([Total Deaths] / [Total Confirmed]) * 100
+
 Recovery Rate % = ([Total Recovered] / [Total Confirmed]) * 100
+
 Weekly Growth % = ( ([This Week] - [Last Week]) / [Last Week] ) * 100
+
 Mortality Ratio = ([Total Deaths] / [Total Recovered]) * 100
 
 
-(More DAX can be added based on your file—tell me if you want them listed.)
+
 
 🗺️ Key Insights
 🔹 Global Overview
