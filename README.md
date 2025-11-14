@@ -8,12 +8,19 @@ This project showcases data cleaning, modeling, visualization, and insights gene
 This Power BI project provides an interactive and visually compelling analysis of worldwide COVID-19 impact using dashboards that highlight:
 
 Global confirmed cases
+
 Global deaths & death rate
+
 Weekly growth rate
+
 Country-wise comparison
+
 WHO regional distribution
+
 Recovery vs death vs active cases
+
 Mortality ratio insights
+
 Geographic distribution of deaths
 
 The dashboard is built to help understand the spread, severity, and recovery performance across countries and regions.
