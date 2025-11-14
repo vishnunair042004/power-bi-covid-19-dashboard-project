@@ -4,6 +4,7 @@ A comprehensive COVID-19 data analytics dashboard built using Power BI to analyz
 This project showcases data cleaning, modeling, visualization, and insights generation using advanced Power BI features.
 
 🚀 Project Overview
+
 This Power BI project provides an interactive and visually compelling analysis of worldwide COVID-19 impact using dashboards that highlight:
 Global confirmed cases
 Global deaths & death rate
@@ -17,6 +18,7 @@ Geographic distribution of deaths
 The dashboard is built to help understand the spread, severity, and recovery performance across countries and regions.
 
 📂 Dashboard Pages
+
 1️⃣ COVID-19 Confirmed & Death Cases Overview
 
 ✔ Top 10 countries with the highest confirmed cases
@@ -75,6 +77,7 @@ Weekly Growth % = ( ([This Week] - [Last Week]) / [Last Week] ) * 100
 Mortality Ratio = ([Total Deaths] / [Total Recovered]) * 100
 
 🗺️ Key Insights
+
 🔹 Global Overview
 16.48M+ confirmed cases
 0.65M+ total deaths
@@ -82,11 +85,13 @@ Global death rate: ~3.9%
 12% weekly growth rate
 
 🔹 Country Analysis
+
 The US leads with the highest confirmed cases & deaths
 Brazil and India follow
 European region shows a high share of confirmed cases
 
 🔹 Recovery & Mortality
+
 Global recovery ratio ~58%
 Countries like Chile, Iran, Mexico show higher mortality ratios
 Countries like India, Brazil show stronger recovery performance
@@ -102,6 +107,7 @@ Donut/Bar/Scatter Charts
 Data Modeling
 
 🎯 Purpose of the Project
+
 This project demonstrates:
 Analytical storytelling
 Dashboard design principles
@@ -116,4 +122,4 @@ End-to-end data analysis workflow
 Vishnu Nair
 📧 vishnunairofficial20024@gmail.com
 
-🔗 LinkedIn: your-link
+🔗 LinkedIn: https://www.linkedin.com/in/vishnu-nair-b6a764341/
